@@ -5,6 +5,7 @@ public class MainApp {
 
             System.out.println("Hello world!");
             System.out.println("18885678");
+            System.out.println("Тестовый пуш");
 
         }
 
