@@ -4,7 +4,8 @@ target/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
+*iml.
+Course.iml
 ### Eclipse ###
 .apt_generated
 .classpath
